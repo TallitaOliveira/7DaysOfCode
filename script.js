@@ -26,7 +26,7 @@ if (COMPARAR O numeroDez e a stringDez) {
 }*/ 
 
 
-                  //                       RESULTADO                     // 
+//                       RESULTADO                     //
 let numeroUm = 1
 let stringUm = '1'
 let numeroTrinta = 30
